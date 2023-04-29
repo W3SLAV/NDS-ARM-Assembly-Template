@@ -1,6 +1,6 @@
 		.org 0x02000000-0x8000
 HeaderStart:
-    .ascii "LibReaper :P"
+	.ascii "Example Name"
 	.ascii "0000"
 	.ascii "00"
 	.byte 0x00
